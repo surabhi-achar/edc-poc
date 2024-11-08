@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--edc-poc--{owner}.aem.page/
-- Live: https://main--edc-poc--{owner}.aem.live/
+- Preview: https://main--edc-poc--surabhi-achar.aem.page/
+- Live: https://main--edc-poc--surabhi-achar.aem.live/
 
 ## Installation
 
